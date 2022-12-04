@@ -1,0 +1,4 @@
+root - INFO - 2022-06-24 16:43:41,044- 3146810599.py- The data is read and datarame is created
+root - INFO - 2022-06-24 16:43:41,574- 3647569790.py- The data is spilitted into test and train data
+root - INFO - 2022-06-24 16:43:41,766- 2498342422.py- The model is trained
+root - INFO - 2022-06-24 16:43:41,835- 1375790345.py- The score  is calculated for different n_estimators
